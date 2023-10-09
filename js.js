@@ -94,11 +94,11 @@ animali.push(animals)
 console.log(animali)
 
 
-const stessoPadrone= function(animals1,animals2){
+// const stessoPadrone= function(animals1,animals2){
 
-if (animals1=== animals2){return console.log(true)}
-else{return console.log(false)}
+// if (animals1=== animals2){return console.log(true)}
+// else{return console.log(false)}
 
-}
+// }
 
-stessoPadrone(pet.proprietario, pet.proprietario)
+// stessoPadrone(pet.proprietario, pet.proprietario)
